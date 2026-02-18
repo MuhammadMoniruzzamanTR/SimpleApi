@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\InOut\\SimpleApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6299BDDD-37C4-D32F-2AC5-6E9916FA39B9}|SimpleApi.csproj|c:\\inout\\simpleapi\\simpleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6299BDDD-37C4-D32F-2AC5-6E9916FA39B9}|SimpleApi.csproj|solutionrelative:simpleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleApi.http",
+              "DocumentMoniker": "C:\\InOut\\SimpleApi\\SimpleApi.http",
+              "RelativeDocumentMoniker": "SimpleApi.http",
+              "ToolTip": "C:\\InOut\\SimpleApi\\SimpleApi.http",
+              "RelativeToolTip": "SimpleApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-18T17:59:30.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
